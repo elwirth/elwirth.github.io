@@ -2,7 +2,7 @@
 ---
 
 # About
-I am a Quantitative Researcher based in London. I obtained my Ph.D. in Mathematics from TU Berlin, working with Prof. Sebastian Pokutta, on Frank-Wolfe algorithms.
+I am a Member of Research Staff at [The Voleon Group](https://voleon.com/) based in London. I obtained my Ph.D. in Mathematics from TU Berlin, working with Prof. Sebastian Pokutta, on Frank-Wolfe algorithms.
 Prior to my doctoral studies, I obtained a M.Sc. in Mathematics from ETH Zurich and a B.Sc. in Mathematics from the University of Berne.
 
 - [Email](mailto:wirth.elias.samuel@gmail.com)
